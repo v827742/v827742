@@ -1,0 +1,74 @@
+package Collection;
+
+import java.util.Scanner;
+import java.util.*;
+public class TestStu1 {
+
+	public static void main(String args[])
+	{
+
+	Scanner sc=new Scanner(System.in);
+	System.out.println("enter rollno")
+	int a=sc.nextInt();
+
+	System.out.println("enter name")
+	String b=sc.next();
+
+	System.out.println("enter Address");
+	String c=sc.next();
+
+
+	Student1 s=new Student1();
+	s.setRollno(a);
+	s.setName(b);
+	s.setAddr(c);
+	
+	System.out.println("enter rollno");
+	int a1=sc.nextInt();
+
+	System.out.println("enter name");
+	String b1=sc.next();
+
+	System.out.println("enter Address");
+	String c1=sc.next();
+	
+	Student1 s1=new Student1();
+	s1.setRollno(a1);
+	s1.setName(b1);
+	s1.setAddr(c1);
+	
+	System.out.println("enter rollno");
+	int a2=sc.nextInt();
+
+	System.out.println("enter name");
+	String b2=sc.next();
+
+	System.out.println("enter Address");
+	String c2=sc.next();
+	
+	Student1 s2=new Student1();
+	s2.setRollno(a2);
+	s2.setName(b2);
+	s2.setAddr(c2);
+	
+
+
+	List l=new ArrayList();
+	l.add(s);
+	l.add(s1);
+	l.add(s2);
+	
+	
+	Iterator itr=l.iterator();
+	 
+	while(itr.hasNext())
+	{
+		Student1 ss=(Student1)itr.next();
+		System.out.println(ss);
+	}
+
+
+
+
+
+}

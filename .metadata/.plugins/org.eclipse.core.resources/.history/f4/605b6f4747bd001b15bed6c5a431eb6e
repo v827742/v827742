@@ -1,0 +1,15 @@
+package oneTomany;
+
+import org.hibernate.Session;
+
+public class Test {
+	public static void main(String[] args) {
+		
+	
+	Session s=HibernateUtil.getSessionFactory().openSession();
+	
+	Doctor dr=new Doctor();
+	dr.set
+
+}
+}

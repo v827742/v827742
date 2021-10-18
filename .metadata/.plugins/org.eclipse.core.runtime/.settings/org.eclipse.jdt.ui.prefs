@@ -1,0 +1,23 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="finallywithreturn.DemoFinallyReturn"><rhs name\="finallywithreturn.DemoFinallyReturn"/></lhs><lhs name\="finallywithreturn.ReturnInFinaly"><rhs name\="finallywithreturn.ReturnInFinaly"/></lhs><lhs name\="DemoThrows"><rhs name\="DemoThrows"/></lhs><lhs name\="java.util.Comparator"><rhs name\="ComparebleComparetor.NameSort"/></lhs><lhs name\="org.hibernate.service.ServiceRegistry"><rhs name\="org.hibernate.boot.registry.internal.StandardServiceRegistryImpl"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="org.hibernate.boot.registry.internal.StandardServiceRegistryImpl"/></lhs><lhs name\="org.hibernate.boot.registry.StandardServiceRegistry"><rhs name\="org.hibernate.boot.registry.internal.StandardServiceRegistryImpl"/></lhs><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.InheritanceType"/><rhs name\="org.hibernate.annotations.CacheConcurrencyStrategy"/><rhs name\="javax.persistence.ParameterMode"/><rhs name\="javax.persistence.GenerationType"/><rhs name\="javax.persistence.CascadeType"/></lhs><lhs name\="practice_default_inheritence.Emp.Employee"><rhs name\="practice_default_inheritence.Emp.RegularEmployee"/><rhs name\="practice_default_inheritence.Emp.ContractEmployee"/></lhs><lhs name\="practice_default_inheritence.Emp.RegularEmployee"><rhs name\="practice_default_inheritence.Emp.RegularEmployee"/></lhs><lhs name\="practice_default_inheritence.Emp.ContractEmployee"><rhs name\="practice_default_inheritence.Emp.ContractEmployee"/></lhs><lhs name\="many_to_one.Vehicle"><rhs name\="many_to_one.Vehicle"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="org.hibernate.boot.MetadataSources"><rhs name\="org.hibernate.boot.MetadataSources"/></lhs><lhs name\="hibernate_criteria_builder.Department"><rhs name\="hibernate_criteria_builder.Department"/></lhs><lhs name\="hibernate_criteria_builder.Employee"><rhs name\="hibernate_criteria_builder.Employee"/></lhs><lhs name\="hibernate_criteriabuilder_1.java.Transport"><rhs name\="hibernate_criteriabuilder_1.java.Transport"/></lhs><lhs name\="hibernate_criteriabuilder_1.java.VehicleInfo"><rhs name\="hibernate_criteriabuilder_1.java.VehicleInfo"/></lhs><lhs name\="aggregate_fun_Average.Employee"><rhs name\="aggregate_fun_Average.Employee"/></lhs><lhs name\="com.braindatawire.serviceI.ServiceI"><rhs name\="com.braindatawire.serviceimpl.ServiceImpl"/></lhs><lhs name\="name_queies_practice.Department"><rhs name\="name_queies_practice.Department"/></lhs><lhs name\="oneTomany_manytoOne_BFBF.BackupFaculty"><rhs name\="oneTomany_manytoOne_BFBF.BackupFaculty"/></lhs><lhs name\="static_and_non_static.DemoNonstatic"><rhs name\="static_and_non_static.DemoNonstatic"/></lhs><lhs name\="static_and_non_static.Employee"><rhs name\="static_and_non_static.Employee"/></lhs><lhs name\="finalkeyword.Avariable"><rhs name\="finalkeyword.Avariable"/></lhs><lhs name\="finalkeyword.Afinalmethod"><rhs name\="finalkeyword.Bmethod"/></lhs><lhs name\="finalkeyword.Bmethod"><rhs name\="finalkeyword.Bmethod"/></lhs><lhs name\="narrowing__c0ncept.Narrow"><rhs name\="narrowing__c0ncept.Narrow"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+editor_folding_enabled=false
+fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Courier New|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Courier New;
+proposalOrderMigrated=true
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,16 @@
+package oneTomany;
+
+import org.hibernate.Session;
+
+public class TesteEagerLoding {
+	
+	public static void main(String[] args) {
+		
+		Session s=HibernateUtil.getSessionFactory().openSession();
+		
+		Patient dr=s.get(Patient.class, 123);
+		
+		
+	}
+
+}

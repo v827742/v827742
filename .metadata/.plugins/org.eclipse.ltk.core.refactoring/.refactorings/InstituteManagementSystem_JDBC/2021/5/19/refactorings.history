@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.braindatawire.institutemanagement_system.config&apos; to &apos;BankProjectWithJDBC/src&apos;&#x0D;&#x0A;- Original project: &apos;InstituteManagementSystem_JDBC&apos;&#x0D;&#x0A;- Destination element: &apos;BankProjectWithJDBC/src&apos;&#x0D;&#x0A;- Original element: &apos;InstituteManagementSystem_JDBC/src/com.braindatawire.institutemanagement_system.config&apos;" description="Copy package" destination="=BankProjectWithJDBC/src" element1="/src&lt;com.braindatawire.institutemanagement_system.config" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1620405176806" version="1.0"/>
+</session>
