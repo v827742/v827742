@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LoginServlet.java&apos; to &apos;Second_servlet_project/src/single_page&apos;&#x0D;&#x0A;- Original project: &apos;First_sevlet_project&apos;&#x0D;&#x0A;- Destination element: &apos;Second_servlet_project/src/single_page&apos;&#x0D;&#x0A;- Original element: &apos;com.cjc.LoginServlet.java&apos;" description="Copy compilation unit" destination="=Second_servlet_project/src&lt;single_page" element1="/src&lt;com.cjc{LoginServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1622659059156" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+127.0.0.1 - - [05/Jun/2021:10:00:39 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [05/Jun/2021:10:01:06 +0530] "GET /Hibernate_servlet_create_project/ HTTP/1.1" 200 1005
+0:0:0:0:0:0:0:1 - - [05/Jun/2021:10:01:39 +0530] "POST /Hibernate_servlet_create_project/reg HTTP/1.1" 200 210
+127.0.0.1 - - [05/Jun/2021:10:59:28 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [05/Jun/2021:10:59:29 +0530] "GET /Hibernate_Servlet_create_JDBC/ HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [05/Jun/2021:11:02:10 +0530] "GET /Hibernate_Servlet_create_JDBC/ HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [05/Jun/2021:11:02:11 +0530] "GET /Hibernate_Servlet_create_JDBC/ HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [05/Jun/2021:11:02:11 +0530] "GET /Hibernate_Servlet_create_JDBC/ HTTP/1.1" 404 1054
+127.0.0.1 - - [05/Jun/2021:11:02:31 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [05/Jun/2021:11:02:31 +0530] "GET /Hibernate_Servlet_create_JDBC/ HTTP/1.1" 404 1054
+0:0:0:0:0:0:0:1 - - [05/Jun/2021:11:03:15 +0530] "GET /Hibernate_Servlet_create_JDBC/ HTTP/1.1" 404 1054

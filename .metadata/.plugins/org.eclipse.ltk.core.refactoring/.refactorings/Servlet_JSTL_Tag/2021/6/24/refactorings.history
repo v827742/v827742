@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.cjc.model&apos; to &apos;servlet_jstl_tag1/src&apos;&#x0D;&#x0A;- Original project: &apos;Servlet_JSTL_Tag&apos;&#x0D;&#x0A;- Destination element: &apos;servlet_jstl_tag1/src&apos;&#x0D;&#x0A;- Original element: &apos;Servlet_JSTL_Tag/src/com.cjc.model&apos;" description="Copy package" destination="=servlet_jstl_tag1/src" element1="/src&lt;com.cjc.model" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1623041924820" version="1.0"/>
+</session>
